@@ -1,0 +1,12 @@
+Criei com o intuito de ajudar meus amigos
+a aprenderem inglês, mas acabei que liberei
+para todo mundo conseguir acessar.
+Para conseguir finalizar esse projeto, foi
+necessário:
+Aprender sobre banco de dados
+Frameworks
+HTML e CSS
+Design
+Aprender sobre o WAMP server
+PHP Orientado a objetos
+

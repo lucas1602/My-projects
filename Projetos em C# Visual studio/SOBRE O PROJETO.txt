@@ -1,0 +1,7 @@
+Criei esse programa para um projeto de
+extensão que participei no IFPE Ipojuca.
+Toda lógica foi desenvolvida por mim, os
+outros participantes cuidaram das ideias
+e dos assuntos adicionados nele.
+Esse foi o meu primeiro projeto com inter-
+face após aprender C.

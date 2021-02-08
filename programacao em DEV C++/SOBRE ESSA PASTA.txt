@@ -1,0 +1,5 @@
+OLÁ!
+
+Essa pasta mostrará o passo a passo que aprendi C e vários exercícios resolvidos por mim em provas e atividades.
+
+Espero agradar com a indentação e lógica dos meus códigos :)
